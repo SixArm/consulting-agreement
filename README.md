@@ -266,6 +266,21 @@ The expressions "include", "included", "includes", "including" shall mean withou
 
 Example: The phrase "A shall include B" means "A shall include without limitation B".
 
+### Debar
+
+The expression "Debar" means to officially bar, ban, or exclude someone from
+doing something. Reasons to Debar include, but are not limited to: violations of
+laws or regulations or certifications or credentials, noncompliance with laws or
+regulations or certifications or credentials, criminal activities of antitrust
+or corruption or fraud, excessive pass-through charges, or unfair trade
+practices.
+
+Example: The United States (US) Government Publishing Office (GPO) is a
+government agency with the authority to debar contractors from participating in
+government contracts. Being debarred from government contracts also means the
+disqualification of a person or contractor from getting invitations for bids,
+requests for proposals, or the award of a contract by the federal government.
+
 ### Gendered Names and Pronouns
 
 The expressions of any names and pronouns shall include all gendered forms, such
@@ -567,6 +582,10 @@ for complying with such laws, taxes, and tariffs, and will hold harmless,
 protect, and defend consultant and its subcontractors from any claim, suit,
 penalty, tax, or tariff arising from Consultee's exercise of Internet electronic
 commerce.
+
+### Debarment
+
+Parties warrant and represent that they have never been, are not currently, and, during the term of this Agreement, will not become Debarred.
 
 ## 7. Mutual Resolution
 
