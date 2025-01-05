@@ -120,6 +120,18 @@ _____________________________________________________________________
 
 Hereafter referred to as the "Effective Date".
 
+### Place
+
+This Agreement is governed by and construed in accordance with the laws of:
+
+City or Town, State or Province, Country or Nation:
+
+```
+_____________________________________________________________________
+```
+
+Hereafter referred to as the "Place".
+
 ### Purpose
 
 Whereas, Consultant provides professional consulting services;
@@ -132,37 +144,22 @@ Now, therefore, in consideration of the foregoing premises and the mutual
 covenants hereinafter set forth and other valuable considerations, the Parties
 hereto agree as follows.
 
-### Place
+### Compatibility
 
-This Agreement shall be governed by and construed in accordance with the laws
-of:
+Parties represent and warrant that at the time of execution of this Agreement,
+the terms of this Agreement are compatible with, and not inconsistent with, any
+other contractual or legal obligations Parties may have or with the policies of
+any institution or company with which Parties associated.
 
-City or Town:
-
-```
-_____________________________________________________________________
-```
-
-State or Province:
-
-```
-_____________________________________________________________________
-```
-
-Country or Nation:
-
-```
-_____________________________________________________________________
-```
+### Jurisdiction
 
 The validity, construction and performance of this Agreement shall be governed
 and construed in accordance with the laws applicable to contracts made and to be
-wholly performed within such place, without giving effect to any conflict of
+wholly performed within the Place, without giving effect to any conflict of
 laws provisions thereof.
 
-The country courts and state courts located in the place shall have sole and
-exclusive jurisdiction over any disputes arising under the terms of this
-Agreement.
+The courts located in the Place shall have sole and exclusive jurisdiction over
+any disputes arising under the terms of this Agreement.
 
 ### Forum non conveniens
 
@@ -285,15 +282,16 @@ The expression "Responsibility Standards" shall mean the following:
 * Having the necessary licensing and qualifications to perform the contract in compliance with local laws and regulations.
 
 Example: The United States (US) Government Publishing Office (GPO) is a
-government agency that requires these Responsibility Standards.
-
+government agency that requires these Responsibility Standards for all
+government contractors.
 
 ### Debar
 
 The expression "Debar" means to officially bar, ban, or exclude someone from
-doing something. The expression "Debarment" means the process of being debarred.
+doing something. The expression "Debarred" is the past tense. The expression
+"Debarment" means the process of being debarred.
 
-Reasons to Debar include, but are not limited to: 
+Reasons for Debarment include, but are not limited to: 
 
 * Violations of, or noncompliance with, laws, regulations, certifications or
   credentials.
@@ -301,8 +299,8 @@ Reasons to Debar include, but are not limited to:
 * Criminal activities, such as corruption, fraud, gross negligence, or illegal
   discrimination.
  
-* Unfair trade practices, such as antitrust, or price-fixing, or bribery, or
-  willful misrepresentation, excessive pass-through charges.
+* Unfair trade practices, such as antitrust, price-fixing, bribery, willful
+  misrepresentation, or excessive pass-through charges.
   
 Example: The United States (US) Government Publishing Office (GPO) is a
 government agency with the authority to debar contractors from participating in
