@@ -266,15 +266,44 @@ The expressions "include", "included", "includes", "including" shall mean withou
 
 Example: The phrase "A shall include B" means "A shall include without limitation B".
 
+### Responsibility Standards
+
+The expression "Responsibility Standards" shall mean the following:
+
+* The ability to provide adequate and sufficient financial resources to perform contracts.
+
+* Having the ability to comply with proposed delivery schedules for project work.
+
+* Demonstrating a satisfactory record of contract performance (also see the requirements for neutral ratings).
+
+* Demonstrating a satisfactory record of business ethics and integrity.
+
+* Having the necessary organization, experience, accounting systems, and operating controls to effectively regulate processes and assure quality.
+
+* Having the required resources to perform government contract
+
+* Having the necessary licensing and qualifications to perform the contract in compliance with local laws and regulations.
+
+Example: The United States (US) Government Publishing Office (GPO) is a
+government agency that requires these Responsibility Standards.
+
+
 ### Debar
 
 The expression "Debar" means to officially bar, ban, or exclude someone from
-doing something. Reasons to Debar include, but are not limited to: violations of
-laws or regulations or certifications or credentials, noncompliance with laws or
-regulations or certifications or credentials, criminal activities of antitrust
-or corruption or fraud, excessive pass-through charges, or unfair trade
-practices.
+doing something. The expression "Debarment" means the process of being debarred.
 
+Reasons to Debar include, but are not limited to: 
+
+* Violations of, or noncompliance with, laws, regulations, certifications or
+  credentials.
+  
+* Criminal activities, such as corruption, fraud, gross negligence, or illegal
+  discrimination.
+ 
+* Unfair trade practices, such as antitrust, or price-fixing, or bribery, or
+  willful misrepresentation, excessive pass-through charges.
+  
 Example: The United States (US) Government Publishing Office (GPO) is a
 government agency with the authority to debar contractors from participating in
 government contracts. Being debarred from government contracts also means the
