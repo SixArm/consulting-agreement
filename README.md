@@ -457,14 +457,6 @@ included in the Work at the request of Consultee for which no copyright permissi
 or previous release was requested or uses which exceed the uses allowed pursuant
 to a permission or release.
 
-### Referenceability
-
-Consultee agrees to be generally available as a reference for Consultant.
-
-### Displayability
-
-Consultee agrees Consultant may display non-confidential results of Work in Consultant's portfolio.
-
 ### Copyright and license for the Work
 
 Copyright for the Work is in Consultant's name unless otherwise specified.
@@ -646,7 +638,25 @@ All aspects of this section are mutual i.e. apply equally to each Party.
 With respect to the subject matter hereof, this Agreement constitutes the entire
 understanding of the Parties, and supersedes any and all prior or
 contemporaneous understandings and agreements, whether oral or written, of the
-Parties, 
+Parties.
+
+### Referenceability
+
+Parties agree to be generally available as a reference for each other.
+
+Example: A Party may provide a reference to a third-party, such as a client, customer, prospect, partner, investor, or vendor.
+
+### Displayability
+
+Parties agree they may display non-confidential results of Work.
+
+Example: A Party may have a portfolio web page, or a vendor list web page, and may include non-confidential information, logos, screenshots, case studies, result analytics, etc.
+
+### Linkability
+
+Parties agree their organizations and people may link to non-confidential information about each other.
+
+Example: A Party employee may link to another Party employee via a social network such as LinkedIn, or a professional directory such as Upwork, or a hosting service such as GitHub.
 
 ### Communications
 
@@ -655,11 +665,13 @@ delivered by hand, deposited with a nationally recognized overnight carrier,
 electronic-mail, or mailed by certified mail, return receipt requested, postage
 prepaid, in each case, to the address of the other Party first indicated above
 (or such other addressee as may be furnished by a Party in accordance with this
-paragraph). All such notices or communications shall be deemed to have been
-given and received (a) in the case of personal delivery or electronic-mail, on
-the date of such delivery, (b) in the case of delivery by a nationally
-recognized overnight carrier, on the third business day following dispatch and
-(c) in the case of mailing, on the seventh business day following such mailing.
+paragraph). 
+
+All such notices or communications shall be deemed to have been given and
+received (a) in the case of personal delivery or electronic-mail, on the date of
+such delivery, (b) in the case of delivery by a nationally recognized overnight
+carrier, on the third business day following dispatch and (c) in the case of
+mailing, on the seventh business day following such mailing.
 
 ### Law Enforcement Reporting
 
