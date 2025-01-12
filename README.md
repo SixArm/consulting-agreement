@@ -102,12 +102,6 @@ _____________________________________________________________________
 
 Hereafter referred to as the "Consultee".
 
-### Party & Parties
-
-Hereafter referred to as a "Party" individually.
-
-Hereafter referred to as the "Parties" collectively.
-
 ### Date
 
 This Agreement is dated and in effect as of:
@@ -143,6 +137,11 @@ herein;
 Now, therefore, in consideration of the foregoing premises and the mutual
 covenants hereinafter set forth and other valuable considerations, the Parties
 hereto agree as follows.
+
+### Party & Parties
+
+Consultant and Consultee are hereafter referred to as the "Party" individually,
+and referred to as the "Parties" collectively.
 
 ### Compatibility
 
@@ -247,15 +246,49 @@ procedures" have been approved where paralegals have moved from one law firm to
 another and have worked on cases for their former employer which may conflict
 with the interests of their current employer and the clients they represent.
 
-### Prior Inventions
+### Prior Invention
 
-The expression "Prior Inventions" means all  ideas, inventions, or works that an
-individual or entity created before entering into the Agreement.
+The expression "Prior Invention" means an idea, invention, product, service,
+patent, copyright, trademark, service mark, source code, documentation, design,
+or work that an individual or entity created before entering into the Agreement,
+whether explicitly enumerated or not.
 
 Note: This expression is often used in employment or intellectual property
 agreements. The purpose of acknowledging prior inventions in a legal contract is
 to ensure that a party does not claim ownership of another party's prior
 invention, either intentionally or accidentally.
+
+Note: Some companies try to suggest a "Prior Invention" clause that forces
+explicit enumeration, such as by stating "List all of your prior inventions
+here". In our experience, this kind of clause can be a show-stopper for
+consulting services, because many consultants have projects that they are not
+permitted to disclose. If this is a show-stopper, then one way we've seen
+succeed is a reasonable compromise: asking a mediator to assess each party's
+list of prior inventions, without disclosing to the other party, to discover any
+potential conflicts, and inform the respective party so they can decide what to
+do next.
+
+### Prior Invention Positive Verification
+
+The expression "Prior Invention Positive Verification" means a decision process
+that the parties agree to use in order to determine whether a work is a Prior
+Invention. If the decision process results in a true output, then the process is
+a prior invention; if the decision process has a false output or any other
+output or cannot be completed, then the process is not used in the
+determination.
+
+When the process has a true output then a work is a prior invention. When the
+process has any other output then there is not enough information to make a
+determinination.
+
+Example: Suppose a party publishes a project before the Agreement, such as
+publishing a product on Amazon.com, website on Wix.com, artwork on Dribble.com,
+mockups on Figma.com, programs on GitHub.com, patents on USPTO.gov, then the
+parties agree the project is a prior invention.
+
+Note: This clause will likely be new to many lawyers. The purpose is to have
+mutual reference to publicly available information. This typically makes it
+easier for parties to review each others' prior inventions.
 
 ### Include Without Limitation
 
@@ -576,15 +609,21 @@ against whom enforcement of such modification is sought.
 Any agreements not specified in this contract must be mutually authorized by a
 written change order.
 
+### Term
+
+The initial term of this Agreement is one calendar week. After that, this
+Agreement automatically renews for successive one calendar week periods, unless
+either Party terminates this Agreement.
+
 ### Termination
 
-Any Party may terminate this Agreement by giving 14 calendar days written notice
-to the other of such termination. In the event that Work is postponed or
+Any Party may terminate this Agreement by giving one calendar Week written
+notice to the other of such termination. In the event that Work is postponed or
 terminated at the request of Consultee, Consultant shall have the right to bill
 pro rata for work completed through the date of that request, while reserving
 all rights under this Agreement.
 
-If additional payment is due, this shall be payable within 14 calendar days of
+If additional payment is due, this shall be payable within one calendar week of
 Consultee's written notification to stop work. In the event of termination,
 Consultee shall also pay any expenses incurred by Consultant and Consultant
 shall own all rights to the Work. Consultee shall assume responsibility for all
