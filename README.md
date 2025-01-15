@@ -4,7 +4,10 @@ This is a Consulting Agreement (“Agreement”) for a Consultant and Consultee 
 
 This kind of agreement may also be known as a General Consulting Agreement ("GSA"), Professional Services Agreement ("PSA"), or Master Services Agreement ("MSA").
 
-Note: The purpose of this document is to have a free open source template that is easy to understand, easy to customize, and fair and balanced for everyone involved. Feedback is welcome. Improvements are welcome.
+The purpose of this document is to have a free open source consulting agreement that is easy to understand, easy to customize for your own goals, and easy to see is fair and balanced for everyone.  The free open source license is your choice of [CC-BY-SA-4.0]((https://creativecommons.org/licenses/by-sa/4.0/) or [GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) or [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) or contact us for custom license.
+
+Feedback is welcome. Improvements are welcome. 
+
 
 ## 1. Introduction
 
@@ -613,15 +616,15 @@ written change order.
 
 The initial term of this Agreement is one calendar week. After that, this
 Agreement automatically renews for successive one calendar week periods, unless
-either Party terminates this Agreement.
+any Party terminates this Agreement.
 
 ### Termination
 
 Any Party may terminate this Agreement by giving one calendar Week written
-notice to the other of such termination. In the event that Work is postponed or
-terminated at the request of Consultee, Consultant shall have the right to bill
-pro rata for work completed through the date of that request, while reserving
-all rights under this Agreement.
+notice to the other Parties of such termination. In the event that Work is
+postponed or terminated at the request of Consultee, Consultant shall have the
+right to bill pro rata for work completed through the date of that request,
+while reserving all rights under this Agreement.
 
 If additional payment is due, this shall be payable within one calendar week of
 Consultee's written notification to stop work. In the event of termination,
