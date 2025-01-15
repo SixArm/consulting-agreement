@@ -128,6 +128,62 @@ _____________________________________________________________________
 
 Hereafter referred to as the "Place".
 
+### Consultant Contact Person (optional)
+
+Person's name: 
+
+```
+_____________________________________________________________________
+```
+
+Person's title, or position, or role:
+
+```
+_____________________________________________________________________
+```
+
+Person's postal address: 
+
+```
+_____________________________________________________________________
+```
+
+Person's email address: 
+
+```
+_____________________________________________________________________
+```
+
+Hereafter referred to as the "Consultant Contact Person".
+
+### Consultee Contact Person (optional)
+
+Person's name: 
+
+```
+_____________________________________________________________________
+```
+
+Person's title, or position, or role:
+
+```
+_____________________________________________________________________
+```
+
+Person's postal address: 
+
+```
+_____________________________________________________________________
+```
+
+Person's email address: 
+
+```
+_____________________________________________________________________
+```
+
+Hereafter referred to as the "Consultee Contact Person".
+
 ### Purpose
 
 Whereas, Consultant provides professional consulting services;
