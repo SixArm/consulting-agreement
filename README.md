@@ -8,7 +8,6 @@ The purpose of this document is to have a free open source consulting agreement 
 
 Feedback is welcome. Improvements are welcome. 
 
-
 ## 1. Introduction
 
 This Agreement is made by and between the following...
@@ -217,7 +216,7 @@ Independent Technology may be used during the course of the Work, and also
 may be among the deliverables.
 
 Example: Independent Technologies include technologies such as 
-open source code, or public packages, or demonstrations, or tutorials.  
+open source code, or public packages, or demonstrations, or tutorials.
 
 Example: Consultant may (i) write a text parser that is generic and 
 generally useful; or (ii) a testing tool that is suitable for becoming a 
@@ -331,13 +330,13 @@ Reasons for Debarment include, but are not limited to:
 
 * Violations of, or noncompliance with, laws, regulations, certifications or
   credentials.
-  
+
 * Criminal activities, such as corruption, fraud, gross negligence, or illegal
   discrimination.
  
 * Unfair trade practices, such as antitrust, price-fixing, bribery, willful
   misrepresentation, or excessive pass-through charges.
-  
+
 Example: The United States (US) Government Publishing Office (GPO) is a
 government agency with the authority to debar contractors from participating in
 government contracts. Being debarred from government contracts also means the
@@ -401,6 +400,14 @@ areas, such as for trade secrets, private security, non-public documents, etc.
 Note: In general, a confidentiality agreement may be also known as a
 non-disclosure agreement ("NDA"), confidential disclosure agreement ("CDA"),
 proprietary information agreement ("PIA") or secrecy agreement ("SA").
+
+### Subcontractor Agreement
+
+A separate Subcontractor Agreement may describe any assignment, delegation,
+adjunct persons or organizations, etc.
+
+Otherwise, Parties shall not assign subcontractors without prior written
+approval by all Parties.
 
 ### Non-Compete Agreement
 
@@ -497,11 +504,6 @@ can sign for another party.
 
 Consultee authorizes Consultant to access the Work's related aspects, such as any
 content, technology, etc.
-
-### Assignment
-
-Unless otherwise specified in a Work Order, Consultant reserves the right to
-assign subcontractors to the Work to ensure quality and on-time completion.
 
 ### Non-provider changes
 
