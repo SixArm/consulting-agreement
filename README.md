@@ -429,6 +429,13 @@ as singular forms, plural forms, and number-neutral forms.
 
 Example: the word "he" includes "they".
 
+### Day
+
+The expression "day" without modification means a calendar day, not a business
+day.
+
+Example: The expression "seven days" means one calendar week.
+
 ## 3. Documents
 
 ### Consulting Agreement
@@ -506,8 +513,8 @@ The expression "directly" means targeting a specific person. This excludes
 indirect solicitation, which includes public job postings, or social media
 announcements, or impersonal advertisements, or legally-required notifications.
 
-The non-solication lasts during this Agreement, and for a period of 1 year after this
-Agreement.
+The non-solication lasts during this Agreement, and for a period of 1 year after
+this Agreement.
 
 Note: In practice, some Parties like to have inter-organization solicitation,
 with agreed-upon payments for successful inter-organization transfers. For
