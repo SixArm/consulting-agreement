@@ -1,10 +1,19 @@
 # Consulting agreement
 
-This is a Consulting Agreement (“Agreement”) for a Consultant and Consultee to read, review, edit as desired, then choose to sign. 
+This is a Consulting Agreement (“Agreement”) for a Consultant and Consultee to
+read, review, edit as desired, then choose to sign. 
 
-This kind of agreement may also be known as a General Consulting Agreement ("GSA"), Professional Services Agreement ("PSA"), or Master Services Agreement ("MSA").
+This kind of agreement may also be known as a General Consulting Agreement
+("GSA"), Professional Services Agreement ("PSA"), or Master Services Agreement
+("MSA").
 
-The purpose of this document is to have a free open source consulting agreement that is easy to understand, easy to customize for your own goals, and easy to see is fair and balanced for everyone.  The free open source license is your choice of [CC-BY-SA-4.0]((https://creativecommons.org/licenses/by-sa/4.0/) or [GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) or [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) or contact us for custom license.
+The purpose of this document is to have a free open source consulting agreement
+that is easy to understand, easy to customize for your own goals, and easy to
+see is fair and balanced for everyone.  The free open source license is your
+choice of [CC-BY-SA-4.0]((https://creativecommons.org/licenses/by-sa/4.0/) or
+[GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) or
+[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) or contact us for custom
+license.
 
 Feedback is welcome. Improvements are welcome. 
 
@@ -239,8 +248,8 @@ more convenient for the key people involved.
 ### Headings
 
 The expresion "headings" in this Agreement shall mean the bigger bolder titles.
-The headings are for reference purposes only. They shall not be used or relied upon in
-the interpretation of this Agreement.
+The headings are for reference purposes only. They shall not be used or relied
+upon in the interpretation of this Agreement.
 
 ### Adjuncts
 
@@ -350,27 +359,34 @@ easier for parties to review each others' prior inventions.
 
 ### Include Without Limitation
 
-The expressions "include", "included", "includes", "including" shall mean without limitation.
+The expressions "include", "included", "includes", "including" shall mean
+without limitation.
 
-Example: The phrase "A shall include B" means "A shall include without limitation B".
+Example: The phrase "A shall include B" means "A shall include without
+limitation B".
 
 ### Responsibility Standards
 
 The expression "Responsibility Standards" shall mean the following:
 
-* The ability to provide adequate and sufficient financial resources to perform contracts.
+* The ability to provide adequate and sufficient financial resources to perform
+  contracts.
 
-* Having the ability to comply with proposed delivery schedules for project work.
+* Having the ability to comply with proposed delivery schedules for project
+  work.
 
-* Demonstrating a satisfactory record of contract performance (also see the requirements for neutral ratings).
+* Demonstrating a satisfactory record of contract performance (also see the
+  requirements for neutral ratings).
 
 * Demonstrating a satisfactory record of business ethics and integrity.
 
-* Having the necessary organization, experience, accounting systems, and operating controls to effectively regulate processes and assure quality.
+* Having the necessary organization, experience, accounting systems, and
+  operating controls to effectively regulate processes and assure quality.
 
 * Having the required resources to perform government contract
 
-* Having the necessary licensing and qualifications to perform the contract in compliance with local laws and regulations.
+* Having the necessary licensing and qualifications to perform the contract in
+  compliance with local laws and regulations.
 
 Example: The United States (US) Government Publishing Office (GPO) is a
 government agency that requires these Responsibility Standards for all
@@ -459,11 +475,45 @@ proprietary information agreement ("PIA") or secrecy agreement ("SA").
 
 ### Subcontractor Agreement
 
-A separate Subcontractor Agreement may describe any assignment, delegation,
-adjunct persons or organizations, etc.
+A separate Subcontractor Agreement may describe any extra-organization
+assignment, work delegations, adjunct team members, etc.
 
-Otherwise, Parties shall not assign subcontractors without prior written
-approval by all Parties.
+Otherwise, Parties agree to the following:
+
+Parties shall not assign subcontractors without prior written approval by all
+Parties.
+
+Note: If subcontractors are desirable, then we recommend enumerating a list. For
+example, stating which specific subcontrator organizations and/or subcontractor
+persons are allowable.
+
+### Non-Solicitation Agreement
+
+A separate Non-Solicitation Agreement may describe any aspects relating to
+employee solicitation, inter-organization recruiting, mutually-agreed-upon
+hiring practices, and the like. 
+
+Otherwise, Parties agree to the following:
+
+Parties shall not knowingly directly solicit an employee of another Party. 
+
+The expression "knowingly" means with knowledge. This excludes unknowing
+solicitation, which includes but is not limited to reasonable lack of knowledge
+of the employee's employment history, or reasonable mistake in an application
+tracking system, or reasonable accidental miscommunication.
+
+The expression "directly" means targeting a specific person. This excludes
+indirect solicitation, which includes public job postings, or social media
+announcements, or impersonal advertisements, or legally-required notifications.
+
+The non-solication lasts during this Agreement, and for a period of 1 year after this
+Agreement.
+
+Note: In practice, some Parties like to have inter-organization solicitation,
+with agreed-upon payments for successful inter-organization transfers. For
+example, if a Consultant employee is working especially well with a Consultee
+employee, and one of the employees wants to move from one Party to the other
+Party, then Parties agree to a transfer fee of 20% of the first year salary.
 
 ### Non-Compete Agreement
 
@@ -569,11 +619,11 @@ or consultant's authorized agent(s).
 Example of authorized agents: Consultee and Consultant may want to work with a
 third-party who is fully qualified, such as an expert or vendor. The Parties may
 mutually agree to authorize that third-party to make changes such that the
-Consultant continues to be responsible for the changes. An area where this kind of
-effect can come up in practice is with high performance systems such as
-high-security servers or high-optimization databases, when Consultee and Consultant
-want to get help from an expert or vendor, and want the resulting changes to
-become part of the Work.
+Consultant continues to be responsible for the changes. An area where this kind
+of effect can come up in practice is with high performance systems such as
+high-security servers or high-optimization databases, when Consultee and
+Consultant want to get help from an expert or vendor, and want the resulting
+changes to become part of the Work.
 
 ### Reservation of rights
 
@@ -589,9 +639,9 @@ Protection of Literary and Artistic Works, are reserved to Consultant.
 
 Consultee agrees to indemnify and hold harmless Consultant against any and all
 claims, costs, and expenses, including attorney's fees, due to materials
-included in the Work at the request of Consultee for which no copyright permission
-or previous release was requested or uses which exceed the uses allowed pursuant
-to a permission or release.
+included in the Work at the request of Consultee for which no copyright
+permission or previous release was requested or uses which exceed the uses
+allowed pursuant to a permission or release.
 
 ### Copyright and license for the Work
 
@@ -615,10 +665,10 @@ the Independent Technology.
 While performing the Work, Consultant may from time to time work with Background
 Technologies and/or Independent Technologies.
 
-Example: Consultant may use or create open source software, demonstrations and/or
-tutorials, stock photos and/or stock media, freely-available graphic diagrams,
-published template documents, pre-packaged applications, commercial off the
-shelf software, etc.
+Example: Consultant may use or create open source software, demonstrations
+and/or tutorials, stock photos and/or stock media, freely-available graphic
+diagrams, published template documents, pre-packaged applications, commercial
+off the shelf software, etc.
 
 While performing the Work, Consultant may from time to time modify Background
 Technologies and/or Independent Technologies, thus creating derivative works. 
@@ -642,13 +692,13 @@ License for Independent Technology is the property of Consultant.
 Note: Background Technology and Independent Technology may include many kinds of
 copyrights and licenses. 
 
-Example: open source software tool-kits may include the GNU Public License ("GPL"),
-graphic diagrams may include the Creative Commons ("CC") license, template
-documents may include the Apache License, etc. 
+Example: open source software tool-kits may include the GNU Public License
+("GPL"), graphic diagrams may include the Creative Commons ("CC") license,
+template documents may include the Apache License, etc. 
 
-In all cases it is Consultee's responsibility to vet any and all legal aspects, to
-Consultee's satisfaction. In all cases it is not Consultant's responsibility to vet
-legal aspects.
+In all cases it is Consultee's responsibility to vet any and all legal aspects,
+to Consultee's satisfaction. In all cases it is not Consultant's responsibility
+to vet legal aspects.
 
 Unless otherwise specified, Consultant's modifications of Background Technology,
 and/or derivatives of Background Technology, belong to the Background Technology
@@ -704,15 +754,16 @@ consultant under this agreement for the project at issue.
 ### Laws affecting electronic commerce
 
 From time to time governments enact laws and levy taxes and tariffs affecting
-Internet electronic commerce. Consultee agrees that Consultee is solely responsible
-for complying with such laws, taxes, and tariffs, and will hold harmless,
-protect, and defend consultant and its subcontractors from any claim, suit,
-penalty, tax, or tariff arising from Consultee's exercise of Internet electronic
-commerce.
+Internet electronic commerce. Consultee agrees that Consultee is solely
+responsible for complying with such laws, taxes, and tariffs, and will hold
+harmless, protect, and defend consultant and its subcontractors from any claim,
+suit, penalty, tax, or tariff arising from Consultee's exercise of Internet
+electronic commerce.
 
 ### Debarment
 
-Parties warrant and represent that they have never been, are not currently, and, during the term of this Agreement, will not become Debarred.
+Parties warrant and represent that they have never been, are not currently, and,
+during the term of this Agreement, will not become Debarred.
 
 ## 7. Mutual Resolution
 
@@ -729,7 +780,8 @@ then via litigation or some other type of dispute resolution process.
 Note: The purpose of this multi-step process is to save time and money for
 everyone involved, and to try multiple ways to find solutions, without needing
 to involve litigation. We're generally aware that some lawyers recommend binding
-arbitration, yet in our experience the binding causes more problems than it solves.
+arbitration, yet in our experience the binding causes more problems than it
+solves.
 
 ### Non-Binding Mediation
 
@@ -790,19 +842,25 @@ Parties.
 
 Parties agree to be generally available as a reference for each other.
 
-Example: A Party may provide a reference to a third-party, such as a client, customer, prospect, partner, investor, or vendor.
+Example: A Party may provide a reference to a third-party, such as a client,
+customer, prospect, partner, investor, or vendor.
 
 ### Displayability
 
 Parties agree they may display non-confidential results of Work.
 
-Example: A Party may have a portfolio web page, or a vendor list web page, and may include non-confidential information, logos, screenshots, case studies, result analytics, etc.
+Example: A Party may have a portfolio web page, or a vendor list web page, and
+may include non-confidential information, logos, screenshots, case studies,
+result analytics, etc.
 
 ### Linkability
 
-Parties agree their organizations and people may link to non-confidential information about each other.
+Parties agree their organizations and people may link to non-confidential
+information about each other.
 
-Example: A Party employee may link to another Party employee via a social network such as LinkedIn, or a professional directory such as Upwork, or a hosting service such as GitHub.
+Example: A Party employee may link to another Party employee via a social
+network such as LinkedIn, or a professional directory such as Upwork, or a
+hosting service such as GitHub.
 
 ### Communications
 
