@@ -315,7 +315,7 @@ with the interests of their current employer and the clients they represent.
 
 ### Prior Invention
 
-The expression "Prior Invention" means an idea, invention, product, service,
+The expression "Prior Invention" shall mean an idea, invention, product, service,
 patent, copyright, trademark, service mark, source code, documentation, design,
 or work that an individual or entity created before entering into the Agreement,
 whether explicitly enumerated or not.
@@ -337,11 +337,11 @@ do next.
 
 ### Prior Invention Positive Verification
 
-The expression "Prior Invention Positive Verification" means a decision process
-that the parties agree to use in order to determine whether a work is a Prior
-Invention. If the decision process results in a true output, then the process is
-a prior invention; if the decision process has a false output or any other
-output or cannot be completed, then the process is not used in the
+The expression "Prior Invention Positive Verification" shall mean a decision
+process that the parties agree to use in order to determine whether a work is a
+Prior Invention. If the decision process results in a true output, then the
+process is a prior invention; if the decision process has a false output or any
+other output or cannot be completed, then the process is not used in the
 determination.
 
 When the process has a true output then a work is a prior invention. When the
@@ -362,7 +362,7 @@ easier for parties to review each others' prior inventions.
 The expressions "include", "included", "includes", "including" shall mean
 without limitation.
 
-Example: The phrase "A shall include B" means "A shall include without
+Example: The phrase "A shall include B" shall mean "A shall include without
 limitation B".
 
 ### Responsibility Standards
@@ -394,9 +394,9 @@ government contractors.
 
 ### Debar
 
-The expression "Debar" means to officially bar, ban, or exclude someone from
+The expression "Debar" shall mean to officially bar, ban, or exclude someone from
 doing something. The expression "Debarred" is the past tense. The expression
-"Debarment" means the process of being debarred.
+"Debarment" shall mean the process of being debarred.
 
 Reasons for Debarment include, but are not limited to: 
 
@@ -411,7 +411,7 @@ Reasons for Debarment include, but are not limited to:
 
 Example: The United States (US) Government Publishing Office (GPO) is a
 government agency with the authority to debar contractors from participating in
-government contracts. Being debarred from government contracts also means the
+government contracts. Being debarred from government contracts shall mean the
 disqualification of a person or contractor from getting invitations for bids,
 requests for proposals, or the award of a contract by the federal government.
 
@@ -431,10 +431,10 @@ Example: the word "he" includes "they".
 
 ### Day
 
-The expression "day" without modification means a calendar day, not a business
+The expression "day" without modification shall mean a calendar day, not a business
 day.
 
-Example: The expression "seven days" means one calendar week.
+Example: The expression "seven days" shall mean one calendar week.
 
 ## 3. Documents
 
@@ -504,12 +504,12 @@ Otherwise, Parties agree to the following:
 
 Parties shall not knowingly directly solicit an employee of another Party. 
 
-The expression "knowingly" means with knowledge. This excludes unknowing
+The expression "knowingly" shall mean with knowledge. This excludes unknowing
 solicitation, which includes but is not limited to reasonable lack of knowledge
 of the employee's employment history, or reasonable mistake in an application
 tracking system, or reasonable accidental miscommunication.
 
-The expression "directly" means targeting a specific person. This excludes
+The expression "directly" shall mean targeting a specific person. This excludes
 indirect solicitation, which includes public job postings, or social media
 announcements, or impersonal advertisements, or legally-required notifications.
 
