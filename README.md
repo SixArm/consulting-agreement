@@ -439,15 +439,16 @@ Example: The expression "seven days" shall mean one calendar week.
 ### Force Majeure
 
 The expression "force majeure" shall mean as a supervening cause or force,
-including but not limited to war, terrorism, severe credible security threat,
-major destabilizing act of government such as martial law or state of emergency,
-major labor disruption such as severe strike or severe walkout, major economic
+including but not limited to war, terrorism, major security threat, major
+destabilizing act of government such as martial law or state of emergency, major
+labor disruption such as severe strike or severe walkout, major economic
 upheaval such as severe stock market suspension or severe banking industry
 failures, major climate disaster such as severe heat wave or severe water
 shortage, major health threats such as severe pandemics or severe
 contaminations, major natural disasters such as severe fires or severe storms,
 major technological failures such as severe electricity failure or severe
-internet outage, or major catastrophe beyond control of the Parties.
+internet outage or severe cyber-attack, or major catastrophe beyond control of
+the Parties.
 
 The expression "force majeure excuse" shall mean a force majeure event that
 renders performance by one or more of the parties impracticable or impossible,
