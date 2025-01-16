@@ -453,10 +453,12 @@ the Parties.
 ### Force Majeure Excuse
 
 The expression "force majeure excuse" shall mean a force majeure event that
-renders performance by one or more of the parties impracticable or impossible,
-and shall not mean anything that merely delays or hinders fulfillment of the
-Agreement, and shall not mean exemption from liability for violation of monetary
-payment obligations of the Agreement.
+renders performance by one or more of the parties impracticable or impossible
+because the event is the effective cause of the non-performance. 
+
+The expression "force majeure excuse" shall not mean anything that merely delays
+or hinders fulfillment of the Agreement, and shall not mean exemption from
+liability for violation of monetary payment obligations of the Agreement.
 
 ## 3. Documents
 
