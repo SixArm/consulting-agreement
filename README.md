@@ -450,6 +450,8 @@ major technological failures such as severe electricity failure or severe
 internet outage or severe cyber-attack, or major catastrophe beyond control of
 the Parties.
 
+### Force Majeure Excuse
+
 The expression "force majeure excuse" shall mean a force majeure event that
 renders performance by one or more of the parties impracticable or impossible,
 and shall not mean anything that merely delays or hinders fulfillment of the
