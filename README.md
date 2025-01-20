@@ -441,12 +441,20 @@ as singular forms, plural forms, and number-neutral forms.
 
 Example: the word "he" includes "they".
 
+### Business Day
+
+The expression "business day" shall mean any day in which normal business
+operations are conducted. Unless otherwise specified, a business day lasts eight
+hours from 09:00 to 17:00 local time.
+
+### Calendar Day
+
+The expression "calendar day" shall mean any calendar day. Unless otherwise specified, a calendar day lasts twenty-four hours from 00:00 to 23:59 local time.
+
 ### Day
 
-The expression "day" without modification shall mean a calendar day, not a business
-day.
-
-Example: The expression "seven days" shall mean one calendar week.
+The expression "day" absent any specific scope, such as "busines day" or
+"calendar day", etc. shall mean a calendar day.
 
 ### Force Majeure
 
