@@ -65,6 +65,12 @@ Organization's email address, if any:
 _____________________________________________________________________
 ```
 
+Organization's type, if any, such as "a California corporation":
+
+```
+_____________________________________________________________________
+```
+
 Hereafter referred to as the "Consultant".
 
 ### Consultee
@@ -106,6 +112,12 @@ _____________________________________________________________________
 ```
 
 Organization's email address, if any: 
+
+```
+_____________________________________________________________________
+```
+
+Organization's type, if any, such as "a California corporation":
 
 ```
 _____________________________________________________________________
