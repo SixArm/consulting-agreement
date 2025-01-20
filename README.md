@@ -540,9 +540,8 @@ persons are allowable.
 
 ### Non-Solicitation Agreement
 
-A separate Non-Solicitation Agreement may describe any aspects relating to
-employee solicitation, inter-organization recruiting, mutually-agreed-upon
-hiring practices, and the like. 
+A separate Non-Solicitation Agreement may describe any aspects relating to any
+inter-organization staff solicitation, recruiting, hiring practices, etc.
 
 Otherwise, Parties agree to the following:
 
