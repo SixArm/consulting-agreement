@@ -586,15 +586,21 @@ conditions contained in any of the documents forming a part of this Agreement,
 then the Agreement shall be construed in the following order of priority, i.e. 1
 takes precedence over 2 and so on:
 
-1. These terms and conditions.
+1. The provisions of this Consulting Agreement a.k.a. General Consulting
+Agreement ("GSA"), Professional Services Agreement ("PSA"), or Master Services
+Agreement ("MSA").
 
-2. The provisions of any Statement of Work.
+2. The provisions of any Confidentiality Agreement.
 
-3. The provisions of any Work Order.
+3. The provisions of any Fees And Payments Agreement.
 
-4. The provisions of any schedules.
+4. The provisions of any Statement of Work.
 
-5. Any other documents incorporated or referenced herein.
+5. The provisions of any Work Order.
+
+6. The provisions of any schedules.
+   
+7. Any other documents incorporated or referenced herein.
 
 ### Work Order
 
