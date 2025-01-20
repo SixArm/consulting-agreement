@@ -1,7 +1,7 @@
 # Consulting agreement
 
 This is a Consulting Agreement (“Agreement”) for a Consultant and Consultee to
-read, review, edit as desired, then choose to sign. 
+read, review, edit as desired, then choose to sign.
 
 This kind of agreement may also be known as a General Consulting Agreement
 ("GSA"), Professional Services Agreement ("PSA"), or Master Services Agreement
@@ -15,7 +15,7 @@ choice of [CC-BY-SA-4.0]((https://creativecommons.org/licenses/by-sa/4.0/) or
 [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) or contact us for custom
 license.
 
-Feedback is welcome. Improvements are welcome. 
+Feedback is welcome. Improvements are welcome.
 
 ## 1. Introduction
 
@@ -23,7 +23,7 @@ This Agreement is made by and between the following...
 
 ### Consultant
 
-Person's name: 
+Person's name:
 
 ```
 _____________________________________________________________________
@@ -35,31 +35,31 @@ Person's title, or position, or role:
 _____________________________________________________________________
 ```
 
-Person's postal address: 
+Person's postal address:
 
 ```
 _____________________________________________________________________
 ```
 
-Person's email address: 
+Person's email address:
 
 ```
 _____________________________________________________________________
 ```
 
-Organization's name, if any: 
+Organization's name, if any:
 
 ```
 _____________________________________________________________________
 ```
 
-Organization's postal address, if any: 
+Organization's postal address, if any:
 
 ```
 _____________________________________________________________________
 ```
 
-Organization's email address, if any: 
+Organization's email address, if any:
 
 ```
 _____________________________________________________________________
@@ -75,7 +75,7 @@ Hereafter referred to as the "Consultant".
 
 ### Consultee
 
-Person's name: 
+Person's name:
 
 ```
 _____________________________________________________________________
@@ -87,31 +87,31 @@ Person's title, or position, or role:
 _____________________________________________________________________
 ```
 
-Person's postal address: 
+Person's postal address:
 
 ```
 _____________________________________________________________________
 ```
 
-Person's email address: 
+Person's email address:
 
 ```
 _____________________________________________________________________
 ```
 
-Organization's name, if any: 
+Organization's name, if any:
 
 ```
 _____________________________________________________________________
 ```
 
-Organization's postal address, if any: 
+Organization's postal address, if any:
 
 ```
 _____________________________________________________________________
 ```
 
-Organization's email address, if any: 
+Organization's email address, if any:
 
 ```
 _____________________________________________________________________
@@ -151,7 +151,7 @@ Hereafter referred to as the "Place".
 
 ### Consultant Contact Person (optional)
 
-Person's name: 
+Person's name:
 
 ```
 _____________________________________________________________________
@@ -163,13 +163,13 @@ Person's title, or position, or role:
 _____________________________________________________________________
 ```
 
-Person's postal address: 
+Person's postal address:
 
 ```
 _____________________________________________________________________
 ```
 
-Person's email address: 
+Person's email address:
 
 ```
 _____________________________________________________________________
@@ -179,7 +179,7 @@ Hereafter referred to as the "Consultant Contact Person".
 
 ### Consultee Contact Person (optional)
 
-Person's name: 
+Person's name:
 
 ```
 _____________________________________________________________________
@@ -191,13 +191,13 @@ Person's title, or position, or role:
 _____________________________________________________________________
 ```
 
-Person's postal address: 
+Person's postal address:
 
 ```
 _____________________________________________________________________
 ```
 
-Person's email address: 
+Person's email address:
 
 ```
 _____________________________________________________________________
@@ -289,24 +289,24 @@ developed, conceived or reduced to practice by Consultant, at any time,
 including during this Agreement, and (ii) where the technology is generic enough
 that it may be useful for unrelated projects, practices, or purposes.
 
-Independent Technology may be used during the course of the Work, and also 
+Independent Technology may be used during the course of the Work, and also
 may be among the deliverables.
 
-Example: Independent Technologies include technologies such as 
+Example: Independent Technologies include technologies such as
 open source code, or public packages, or demonstrations, or tutorials.
 
-Example: Consultant may (i) write a text parser that is generic and 
-generally useful; or (ii) a testing tool that is suitable for becoming a 
-shared library usable by multiple projects, or (iii) a data calculation 
-application that can be published as open source code, or (iv) a system 
-utility that can become a public package, or (v) a demonstration of how 
+Example: Consultant may (i) write a text parser that is generic and
+generally useful; or (ii) a testing tool that is suitable for becoming a
+shared library usable by multiple projects, or (iii) a data calculation
+application that can be published as open source code, or (iv) a system
+utility that can become a public package, or (v) a demonstration of how
 to use or implement an idea, or (vi) a tutorial that teaches a process.
 
 ### Ethics Wall
 
 The expression "Ethics Wall" shall mean an information barrier protocol within
 an organization designed to prevent exchange of information or communication
-that could lead to conflicts of interest. 
+that could lead to conflicts of interest.
 
 See: https://wikipedia.org/wiki/ethics_wall
 
@@ -410,14 +410,14 @@ The expression "Debar" shall mean to officially bar, ban, or exclude someone fro
 doing something. The expression "Debarred" is the past tense. The expression
 "Debarment" shall mean the process of being debarred.
 
-Reasons for Debarment include, but are not limited to: 
+Reasons for Debarment include, but are not limited to:
 
 * Violations of, or noncompliance with, laws, regulations, certifications or
   credentials.
 
 * Criminal activities, such as corruption, fraud, gross negligence, or illegal
   discrimination.
- 
+
 * Unfair trade practices, such as antitrust, price-fixing, bribery, willful
   misrepresentation, or excessive pass-through charges.
 
@@ -430,14 +430,14 @@ requests for proposals, or the award of a contract by the federal government.
 ### Gendered Names and Pronouns
 
 The expressions of any names and pronouns shall include all gendered forms, such
-as masculine forms, feminine forms, and gender-neutral forms. 
+as masculine forms, feminine forms, and gender-neutral forms.
 
 Example: the word "he" includes "she".
 
 ### Numbered Names and Pronouns
 
 The expressions of any names and pronouns shall include all numbered forms, such
-as singular forms, plural forms, and number-neutral forms. 
+as singular forms, plural forms, and number-neutral forms.
 
 Example: the word "he" includes "they".
 
@@ -449,7 +449,9 @@ hours from 09:00 to 17:00 local time.
 
 ### Calendar Day
 
-The expression "calendar day" shall mean any calendar day. Unless otherwise specified, a calendar day lasts twenty-four hours from 00:00 to 23:59 local time.
+The expression "calendar day" shall mean any calendar day. Unless otherwise
+specified, a calendar day lasts twenty-four hours from 00:00 to 23:59 local
+time.
 
 ### Day
 
@@ -474,7 +476,7 @@ the Parties.
 
 The expression "force majeure excuse" shall mean a force majeure event that
 renders performance by one or more of the parties impracticable or impossible
-because the event is the effective cause of the non-performance. 
+because the event is the effective cause of the non-performance.
 
 The expression "force majeure excuse" shall not mean anything that merely delays
 or hinders fulfillment of the Agreement, and shall not mean exemption from
@@ -503,7 +505,7 @@ Agreement, General Consulting Agreement ("GSA"), Professional Services Agreement
 A separate Work Order ("WO") may describe the Work, such as any plans,
 deliverables, milestones, specifications, work breakdown structures, etc.
 
-Note: We suggest using a Work Order for shorter-range planning, or 
+Note: We suggest using a Work Order for shorter-range planning, or
 smaller-scope projects, or less-complex engagements.
 
 Note: In practice, a Work Order may refer to a higher-level Consulting
@@ -545,7 +547,7 @@ inter-organization staff solicitation, recruiting, hiring practices, etc.
 
 Otherwise, Parties agree to the following:
 
-Parties shall not knowingly directly solicit an employee of another Party. 
+Parties shall not knowingly directly solicit an employee of another Party.
 
 The expression "knowingly" shall mean with knowledge. This excludes unknowing
 solicitation, which includes but is not limited to reasonable lack of knowledge
@@ -599,23 +601,23 @@ Agreement ("MSA").
 5. The provisions of any Work Order.
 
 6. The provisions of any schedules.
-   
+ 
 7. Any other documents incorporated or referenced herein.
 
 ### Work Order
 
 All work performed by Consultant shall be documented in a Work Order ("WO"), and
-signed by authorized representatives of both parties. 
+signed by authorized representatives of both parties.
 
 ### Work Order Acceptance
 
-Consultant shall have the right to accept or decline any proposed Work Order. 
+Consultant shall have the right to accept or decline any proposed Work Order.
 
 ### Work Order Communications
 
 All instructions, approvals, submissions, notices and any other communications
 or transactions that must be made to Consultee shall be made through the
-representative set forth on the Work Order. 
+representative set forth on the Work Order.
 
 ### Work Order Furnishing
 
@@ -627,7 +629,7 @@ supervision and insurance need to perform the work.
 
 ### Independence
 
-The Consultee and Consultant are independent parties. 
+The Consultee and Consultant are independent parties.
 
 There is no dependency, such as employer, principal of, partner of, or joint
 venture.
@@ -710,7 +712,7 @@ Consultant will sign a Release of Copyright that releases the copyright to Consu
 
 Upon completion of Work, and only upon receiving payment of balance due,and
 Consultant will grant Consultee a perpetual, irrevocable, worldwide license to
-use and modify the Work. 
+use and modify the Work.
 
 Unless otherwise specified, this license does not include the right to
 redistribute, resell, or relicense the Work, or the Background Technology, or
@@ -727,7 +729,7 @@ diagrams, published template documents, pre-packaged applications, commercial
 off the shelf software, etc.
 
 While performing the Work, Consultant may from time to time modify Background
-Technologies and/or Independent Technologies, thus creating derivative works. 
+Technologies and/or Independent Technologies, thus creating derivative works.
 
 Example: Consultant may modify open source code, edit stock photos, augment
 graphic diagrams, fill in template documents, extend pre-packaged applications,
@@ -741,16 +743,16 @@ Copyright for Background Technology remains the property of respective owners.
 
 Copyright for Independent Technology is the property of Consultant.
 
-License for Background Technology remains the property of respective owners. 
+License for Background Technology remains the property of respective owners.
 
 License for Independent Technology is the property of Consultant.
 
 Note: Background Technology and Independent Technology may include many kinds of
-copyrights and licenses. 
+copyrights and licenses.
 
 Example: open source software tool-kits may include the GNU Public License
 ("GPL"), graphic diagrams may include the Creative Commons ("CC") license,
-template documents may include the Apache License, etc. 
+template documents may include the Apache License, etc.
 
 In all cases it is Consultee's responsibility to vet any and all legal aspects,
 to Consultee's satisfaction. In all cases it is not Consultant's responsibility
@@ -758,7 +760,7 @@ to vet legal aspects.
 
 Unless otherwise specified, Consultant's modifications of Background Technology,
 and/or derivatives of Background Technology, belong to the Background Technology
-respective owners. 
+respective owners.
 
 Example: Consultant may develop a software bug fix for Background Technology
 source code, in which case the bug fix belongs to the Background Technology
@@ -853,7 +855,7 @@ resolution process.
 
 If non-binding arbitration is necessary, then the Parties agree to submit to
 non-binding arbitration administered by the American Arbitration Association
-under its Non-Binding Arbitration Rules. 
+under its Non-Binding Arbitration Rules.
 
 The Parties agree to do this before the Parties may initiate binding
 arbitration, litigation, or some other type of dispute resolution process.
@@ -925,7 +927,7 @@ delivered by hand, deposited with a nationally recognized overnight carrier,
 electronic-mail, or mailed by certified mail, return receipt requested, postage
 prepaid, in each case, to the address of the other Party first indicated above
 (or such other addressee as may be furnished by a Party in accordance with this
-paragraph). 
+paragraph).
 
 All such notices or communications shall be deemed to have been given and
 received (a) in the case of personal delivery or electronic-mail, on the date of
@@ -936,7 +938,7 @@ mailing, on the seventh business day following such mailing.
 ### Law Enforcement Reporting
 
 Nothing in this Agreement is intended to interfere with, or restrain, or
-prohibit law enforcement reporting. 
+prohibit law enforcement reporting.
 
 This includes but is not limited to the purpose of reporting a suspected
 violation of the law to authorized law enforcement officers, or for the purpose
@@ -1004,13 +1006,13 @@ date first above written.
 
 On behalf of Consultant:
 
-Print person's name: 
+Print person's name:
 
 ```
 _____________________________________________________________________
 ```
 
-Sign person's name: 
+Sign person's name:
 
 ```
 _____________________________________________________________________
@@ -1026,13 +1028,13 @@ _____________________________________________________________________
 
 On behalf of Consultee:
 
-Print person's name: 
+Print person's name:
 
 ```
 _____________________________________________________________________
 ```
 
-Sign person's name: 
+Sign person's name:
 
 ```
 _____________________________________________________________________
