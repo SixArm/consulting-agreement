@@ -458,6 +458,27 @@ time.
 The expression "day" absent any specific scope, such as "busines day" or
 "calendar day", etc. shall mean a calendar day.
 
+### Retainer fee
+
+The expression "retainer fee" shall mean the upfront cost of a service before the service has been performed. Unless otherwise specified, a retainer fee is non-refundable.
+
+Note: A deposit is a partial payment that is usually refundable, while a
+retainer is an upfront payment that is usually non-refundable. The United States
+Internal Revenue Service (IRS) and  Generally Accepted Accounting Principles
+(GAAP) have distinguished between a deposit and a retainer fee.
+
+### Draw-down retainer fee
+
+The expression "draw-down retainer fee" shall mean a retainer fee that is used for gradual payment as work is completed.
+
+Example draw-down retainer fee: Consultant wants to ensure that Consultee has enough money to pay, so estimates the total cost, then asks for the money up front as a draw-down retainer. As work progresses, the Consultant gradually recognizes revenue from the retainer fee. 
+
+### Time-slot retainer fee
+
+The expression "time-slot retainer fee" shall mean a retainer fee that reserves a specific time slot.
+ 
+Example time-slot retainer fee: Consultee wants to ensure that Consultant will be available during certain time slots, such as "20 hours per week" because of predicted workload, or "Every Friday 9:00 a.m. to 10:00 a.m." because of predicted recurring status meetings, or "Last business day of each month" because of predicted monthly reporting needs, etc.
+
 ### Force Majeure
 
 The expression "force majeure" shall mean as a supervening cause or force,
